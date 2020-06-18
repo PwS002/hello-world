@@ -1,2 +1,2 @@
 # hello-world
-Repository
+First Time Commit GitHub

@@ -1,2 +1,5 @@
 # hello-world
-First Time Commit GitHub
+<div align="center">
+<p>Just a Basic Stuff</p>
+</div>
+
